@@ -4,6 +4,8 @@
 
 ## 钉钉
 
+* [更新日志](dingd/changelog.md)
+
 * [开篇必看](dingd/mustsee.md)
 
 * [大纲](dingd/outline.md)
