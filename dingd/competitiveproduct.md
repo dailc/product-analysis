@@ -209,6 +209,8 @@ __费用对比__
 
 - 钉钉这类的产品则是作为一个平台存在，应用可以继承在平台上，各大企业也可以集成自己特色业务的应用
 
+其它的如客户端开放API之类的功能其实传统型应用也是可能有的。
+
 ## 参考来源
 
 - [https://www.zhihu.com/question/31272194?sort=created](https://www.zhihu.com/question/31272194?sort=created)
